@@ -8,8 +8,8 @@ cg
 #fist recipe
 
 Directions:
- Toss dough
- Add sauce
-
+Toss dough
+Add sauce
+cook time 40 minuts
 
 
